@@ -1,8 +1,8 @@
 # ProductManagementSystem
 REST APIs for product management system using swagger
 
-URL(API documentation): https://app.swaggerhub.com/apis-docs/Yasashvini/ProductManagement/v1
-URL(Published Version): https://app.swaggerhub.com/apis/Yasashvini/ProductManagement/v1
+  URL(API documentation): https://app.swaggerhub.com/apis-docs/Yasashvini/ProductManagement/v1  
+  URL(Published Version): https://app.swaggerhub.com/apis/Yasashvini/ProductManagement/v1
 
 - The APIs under the tag **Product**, has basic operations like creating, updating, deleting and getting the data based on the id, upload image data for the product, etc.
 -	The APIs under the tag **Category**, has basic operations like creating, updating, deleting and getting the data based on the id of the category, etc.
